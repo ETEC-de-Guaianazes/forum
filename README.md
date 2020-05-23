@@ -4,4 +4,4 @@ Esta organização foi criada por um ex-aluno da Etec de Guaianases, com o objet
 
 ## Quer enviar seu projeto?
 
-Envie um e-mail para [leandro.silva143@fatec.sp.gov.br](mailto:leandro.silva143@fatec.sp.gov.br?subject=Projeto%20para%20Etec%20de%20Guaianazes) com o assunto **"Projeto para Etec de Guaianazes"**, e o link do repositório do seu projeto.
+Caso queira enviar seu projeto, seja de TCC ou outro qualquer, [abra um ISSUE](https://github.com/ETEC-de-Guaianazes/forum/issues/new/choose) aqui no fórum, com o link para o seu repositório.
